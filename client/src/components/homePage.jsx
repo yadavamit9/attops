@@ -6,6 +6,7 @@ class HomePage extends Component {
     <div>
       <p>
         This is home  page
+        
       </p>
     </div>
 

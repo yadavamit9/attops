@@ -5,10 +5,6 @@ import setActiveTab from '../actions/setActiveTab';
 
 
 class Header extends Component{
-
-  updateActiveTab = (key, _) => {
-    this.setState({activeTab : key});
-  };
   
   render () {
     return(
